@@ -2,8 +2,14 @@ class Program1{
 public static void main(String[] args){
 int a=10;
 int b=20;
+<<<<<<< HEAD
 System.out.println(a+b);
 Sysout();
+=======
+int c=a+b;
+System.out.println(c);
+System.out.println("thank you ");
+>>>>>>> 1a510b48fe3a20c44c3735cbe464bdccf985ae6e
 }
 
 }
